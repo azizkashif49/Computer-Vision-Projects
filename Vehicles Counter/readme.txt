@@ -9,4 +9,4 @@ This computer vision project utilizes the YOLO (You Only Look Once) object detec
 
 ## Dependencies
 - YOLO v8
-- SORT module (https://github.com/abewley/sort/blob/master/sort.py)
+- SORT module ([SORT GitHub](https://github.com/abewley/sort/blob/master/sort.py))
